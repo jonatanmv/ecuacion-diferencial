@@ -1,3 +1,3 @@
 # Ecuación diferencial
 
-<img src="Ecuacion diferencial" />
+<img src="Ecuacion diferencial.jpg" />
