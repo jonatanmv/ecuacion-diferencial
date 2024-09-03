@@ -1,3 +1,3 @@
 # Ecuación diferencial
 
-![Ecuación diferencial](Ecuacion diferencial.jpg)
+<img src="Ecuacion diferencial" />
